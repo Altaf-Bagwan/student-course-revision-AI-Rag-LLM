@@ -3,7 +3,10 @@
 AI-powered revision tool for students with quiz generation, intelligent chat with citations, and progress tracking.
 
 **🌐 Live Demo:** https://student-course-revision.vercel.app/  
-**📹 Demo Video:** [Add your video link here]  
+**📹 Demo Video:** 
+https://github.com/user-attachments/assets/8be5d193-9222-4207-abb9-1138a7e8cb98
+
+
 **💻 GitHub:** https://github.com/Altaf-Bagwan/student-course-revision-AI-Rag-LLM
 
 ---
